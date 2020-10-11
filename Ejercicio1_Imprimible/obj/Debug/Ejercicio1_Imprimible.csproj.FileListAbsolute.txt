@@ -1,0 +1,6 @@
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio1_Imprimible\bin\Debug\Ejercicio1_Imprimible.pdb
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.csprojAssemblyReference.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.csproj.CoreCompileInputs.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio1_Imprimible\obj\Debug\Ejercicio1_Imprimible.pdb

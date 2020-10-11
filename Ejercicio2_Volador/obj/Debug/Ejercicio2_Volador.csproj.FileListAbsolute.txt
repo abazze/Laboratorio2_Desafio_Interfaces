@@ -1,0 +1,6 @@
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio2_Volador\bin\Debug\Ejercicio2_Volador.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio2_Volador\bin\Debug\Ejercicio2_Volador.pdb
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio2_Volador\obj\Debug\Ejercicio2_Volador.csprojAssemblyReference.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio2_Volador\obj\Debug\Ejercicio2_Volador.csproj.CoreCompileInputs.cache
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio2_Volador\obj\Debug\Ejercicio2_Volador.exe
+C:\Agustin\Aconcagua\Segundo Cuatrimestre Segundo Año\Laboratorio II\Unidad III\Interfaces\Ejercicio1_Imprimible\Ejercicio2_Volador\obj\Debug\Ejercicio2_Volador.pdb
